@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @theviperr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-theviperr/theviperr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm Juber Jindran.
+Student of MCA in shekhawati college sikar.
+Passion of Computer Engineering
+And Web Development.
